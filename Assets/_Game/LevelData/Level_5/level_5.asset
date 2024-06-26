@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a33aba68483a506458062fb887d5ef86, type: 3}
+  m_Name: level_5
+  m_EditorClassIdentifier: 
+  levelData: {fileID: 11400000, guid: 8d5548ec3a236a04abb5ed291677b3c4, type: 2}
+  materialsColorFill:
+  - {fileID: 591031639713082001, guid: dc041ef20d2265a4f8f92badc7253895, type: 3}
+  - {fileID: 2802750712073415353, guid: dc041ef20d2265a4f8f92badc7253895, type: 3}
+  - {fileID: -6305510868625371536, guid: dc041ef20d2265a4f8f92badc7253895, type: 3}
+  - {fileID: 9006961304904750375, guid: dc041ef20d2265a4f8f92badc7253895, type: 3}
+  - {fileID: 6320873146588447763, guid: dc041ef20d2265a4f8f92badc7253895, type: 3}
+  cubeIdForDarkGrey: 01000000
+  cubeIdForLightGrey: 02000000
+  cubeIdForBlack: 03000000
+  cubeIdForWhite: 04000000
